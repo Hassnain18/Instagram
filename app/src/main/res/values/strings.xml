@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaGo</string>
+    <string name="permission_title">Grant Access</string>
+    <string name="permission_detail">Give Music Player access to files</string>
+    <string name="continue_and_learn">Continue and learn how to do</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
